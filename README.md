@@ -11,12 +11,16 @@
 - [Data Engineering Weekly](https://www.dataengineeringweekly.com/)
 - [Data Products](https://dataproducts.substack.com/)
 - [Data Quality Guru](https://dataqualityguru.substack.com/)
+- [Ergest - Data Patterns](https://sqlpatterns.com/)
+- [Materialized View](https://materializedview.io/)
+- [More than numbers](https://more-than-numbers.count.co/)
 
 ### Dev 👨🏻‍💻
 - [Learning from giants](https://substack.com/@sosg)
 - [Dev interrupted](https://devinterrupted.substack.com/)
 - [The pragmatic engineer](https://www.pragmaticengineer.com)
 - [System Design Newsletter](https://newsletter.systemdesign.one/)
+- [ByteByteGo](https://blog.bytebytego.com/)
 
 ### Tech 🌐
 - [Benedict Evans](https://www.ben-evans.com/newsletter)
@@ -27,6 +31,7 @@
 - [Leadership in tech](https://newsletter.leadershipintech.com/)
 - [CTO insights](https://insights.toshotrajanov.com/)
 - [Harvard business Review](https://hbr.org/email-newsletters)
+- [Marc Randolph](https://marcrandolph.substack.com/)
 
 ### Serverless ☁️
 - [Off by none](https://offbynone.io/)
