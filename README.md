@@ -14,6 +14,7 @@
 - [Ergest - Data Patterns](https://sqlpatterns.com/)
 - [Materialized View](https://materializedview.io/)
 - [More than numbers](https://more-than-numbers.count.co/)
+- [Modern Data 101](https://moderndata101.substack.com/)
 
 ### Dev 👨🏻‍💻
 - [Learning from giants](https://substack.com/@sosg)
